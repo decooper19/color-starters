@@ -73,6 +73,7 @@ footer {
 
   #column-3 {
     background-color: lightpink;
+    width: 100%;
   }
 
   footer {
@@ -98,6 +99,7 @@ footer {
 
   #column-3 {
     background-color: lightpink;
+    width: 33%;
   }
 
   footer {
